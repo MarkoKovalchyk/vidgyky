@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+      background-image:linear-gradient(green,lightgreen,white,gray) ;
+}
+body{
+    background-image:linear-gradient(green,lightgreen,white,gray) ;
+}
+h2{
+       background-image:linear-gradient(green,lightgreen,white,gray) ;
+}
+a{
+    color: white;
+    background-color:lawngreen ;
+}
+tr{
+     background-image:linear-gradient(green,lightgreen,white,gray) ;
+}
+p{
+    color: green;
+     border: 2px solid black;
+    border-radius: 20px;
+}
+ nav a{
+      background-image:linear-gradient(green,lightgreen,white,gray) ;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+img{
+      background-image:linear-gradient(gray,white,lightgreen,green) ;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;  
+}
+.boba{
+
+text-align: center;
+      background-image:linear-gradient(gray,white,lightgreen,green) ;
+ border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;  
+font-size: 30px;
+}
+.logo{
+    width:50px;
+    height:50px;
+}
+nav{
+    top:150px;
+}
+nav a:hover{
+    color: green;
+    text-shadow:5px 5px 5px yellow;
+    border: yellow;
+}
+p{
+    width: 300px;
+}
+u{
+    text-align: center;
+}
+
